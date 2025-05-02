@@ -1,4 +1,5 @@
 # Universite_Yonetim_Sistemi
+Ödev - Üniversite Yönetim Sistemi dersi için istenilen sınıf diyagramı universiteyonetimsistemi.png içinde gösterilmiştir.
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
